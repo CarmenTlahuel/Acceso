@@ -1,0 +1,62 @@
+﻿body {
+    color: whitesmoke;
+    background: url(https://img.freepik.com/fotos-premium/fondo-oscuro-colorido-abstracto-lineas-onduladas-brillantes-forma-flexible-textura-vidrio_622186-13.jpg?w=900);
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    text-wrap: initial;
+    font-display:fallback;
+}
+
+h2 {
+    text-align: center;
+    font-size: larger;
+    font-family: 'Berlin Sans FB';
+}
+
+div {
+   margin-right:auto;
+   margin-left:auto;
+   text-align: center;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    height: 60px;
+    background-color: #17181C;
+    text-align: center;
+    color: darkblue;
+}
+
+nav ul {
+    list-style: none;
+    display: inline-block;
+    padding: 18px;
+    height: 25px;
+    width: auto;
+}
+
+nav ul li {
+    float: left;
+    margin-top: auto;
+}
+
+nav ul li a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 18px;
+}
+
+nav ul li a:hover {
+    background-color: #929fb3;
+}

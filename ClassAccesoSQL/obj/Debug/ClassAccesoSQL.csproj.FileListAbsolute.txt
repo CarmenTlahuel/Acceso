@@ -1,0 +1,6 @@
+C:\Users\lenovo\Documents\9no Cuatrimestre\Desarrollo web integral\Prod_2y3\ClassAccesoSQL\bin\Debug\ClassAccesoSQL.dll
+C:\Users\lenovo\Documents\9no Cuatrimestre\Desarrollo web integral\Prod_2y3\ClassAccesoSQL\bin\Debug\ClassAccesoSQL.pdb
+C:\Users\lenovo\Documents\9no Cuatrimestre\Desarrollo web integral\Prod_2y3\ClassAccesoSQL\obj\Debug\ClassAccesoSQL.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\9no Cuatrimestre\Desarrollo web integral\Prod_2y3\ClassAccesoSQL\obj\Debug\ClassAccesoSQL.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\9no Cuatrimestre\Desarrollo web integral\Prod_2y3\ClassAccesoSQL\obj\Debug\ClassAccesoSQL.dll
+C:\Users\lenovo\Documents\9no Cuatrimestre\Desarrollo web integral\Prod_2y3\ClassAccesoSQL\obj\Debug\ClassAccesoSQL.pdb

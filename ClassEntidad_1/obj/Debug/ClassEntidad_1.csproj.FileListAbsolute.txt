@@ -1,0 +1,6 @@
+C:\Users\Lenovo_AIO_11\Downloads\Prod_2y3\Prod_2y3\ClassEntidad_1\bin\Debug\ClassEntidad_1.dll
+C:\Users\Lenovo_AIO_11\Downloads\Prod_2y3\Prod_2y3\ClassEntidad_1\bin\Debug\ClassEntidad_1.pdb
+C:\Users\Lenovo_AIO_11\Downloads\Prod_2y3\Prod_2y3\ClassEntidad_1\obj\Debug\ClassEntidad_1.csproj.AssemblyReference.cache
+C:\Users\Lenovo_AIO_11\Downloads\Prod_2y3\Prod_2y3\ClassEntidad_1\obj\Debug\ClassEntidad_1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo_AIO_11\Downloads\Prod_2y3\Prod_2y3\ClassEntidad_1\obj\Debug\ClassEntidad_1.dll
+C:\Users\Lenovo_AIO_11\Downloads\Prod_2y3\Prod_2y3\ClassEntidad_1\obj\Debug\ClassEntidad_1.pdb

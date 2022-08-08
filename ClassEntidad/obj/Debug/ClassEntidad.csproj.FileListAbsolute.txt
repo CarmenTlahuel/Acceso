@@ -1,0 +1,12 @@
+C:\Users\lenovo\Documents\9no Cuatrimestre\Desarrollo web integral\Prod_2y3\ClassEntidad\bin\Debug\ClassEntidad.dll
+C:\Users\lenovo\Documents\9no Cuatrimestre\Desarrollo web integral\Prod_2y3\ClassEntidad\bin\Debug\ClassEntidad.pdb
+C:\Users\lenovo\Documents\9no Cuatrimestre\Desarrollo web integral\Prod_2y3\ClassEntidad\obj\Debug\ClassEntidad.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\9no Cuatrimestre\Desarrollo web integral\Prod_2y3\ClassEntidad\obj\Debug\ClassEntidad.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\9no Cuatrimestre\Desarrollo web integral\Prod_2y3\ClassEntidad\obj\Debug\ClassEntidad.dll
+C:\Users\lenovo\Documents\9no Cuatrimestre\Desarrollo web integral\Prod_2y3\ClassEntidad\obj\Debug\ClassEntidad.pdb
+C:\Users\Lenovo_AIO_11\Downloads\Prod_2y3\Prod_2y3\ClassEntidad\bin\Debug\ClassEntidad.dll
+C:\Users\Lenovo_AIO_11\Downloads\Prod_2y3\Prod_2y3\ClassEntidad\bin\Debug\ClassEntidad.pdb
+C:\Users\Lenovo_AIO_11\Downloads\Prod_2y3\Prod_2y3\ClassEntidad\obj\Debug\ClassEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo_AIO_11\Downloads\Prod_2y3\Prod_2y3\ClassEntidad\obj\Debug\ClassEntidad.dll
+C:\Users\Lenovo_AIO_11\Downloads\Prod_2y3\Prod_2y3\ClassEntidad\obj\Debug\ClassEntidad.pdb
+C:\Users\Lenovo_AIO_11\Downloads\Prod_2y3\Prod_2y3\ClassEntidad\obj\Debug\ClassEntidad.csproj.AssemblyReference.cache
