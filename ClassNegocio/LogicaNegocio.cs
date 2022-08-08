@@ -23,7 +23,6 @@ namespace ClassNegocio
             List<Marcas> lista = new List<Marcas>();
 
             SqlDataReader atrapa = null;
-
             SqlConnection nuev = null;
             nuev = nuevo.AbrirConexion(ref m);
 
